@@ -51,7 +51,7 @@ export class ProductListComponent implements OnInit {
     )
   }
 
-  
+
 
   handleListProducts() {
 
